@@ -2,7 +2,7 @@
 ## :suspect: About Me
 <div>
   <p>Hey there! 👋 I'm Aviv Levy ,</p>
-  <p>a passionate devops engineer 👩🏻‍💻 on a mission to deploy any code into digital reality ✨. </p>
+  <p>a passionate devops engineer 👨🏻‍💻 on a mission to deploy any code into digital reality ✨. </p>
 </div>
 
 ## ⚒Tech Stack
